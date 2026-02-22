@@ -1,0 +1,73 @@
+# ~/.claude/.gitignore
+# Whitelist approach: ignore everything, then explicitly allow what we want to track.
+
+# Ignore everything by default
+*
+
+# --- TRACK THESE ---
+# Skills directory (160 skills)
+!skills/
+!skills/**/
+!skills/**/*.md
+!skills/**/*.json
+
+# Agents directory (24 agents)
+!agents/
+!agents/**/
+!agents/**/*.md
+!agents/**/*.json
+
+# Root-level config files
+!CLAUDE.md
+!.gitignore
+!sync-to-github.sh
+
+# --- ALWAYS EXCLUDE ---
+# macOS metadata
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Binary files
+*.docx
+*.pdf
+*.zip
+*.pptx
+*.xlsx
+
+# Log files
+*.log
+logs/
+
+# Session/operational directories (not versioned)
+plans/
+backups/
+cache/
+debug/
+file-history/
+history.jsonl
+ide/
+learning-system/
+paste-cache/
+projects/
+session-env/
+shell-snapshots/
+tasks/
+telemetry/
+todos/
+arena/
+webinar-arena/
+methodology/
+personas/
+plugins/
+mcp/
+tools/
+docs/
+downloads/
+settings.local.json
+
+# Node/Python artifacts
+__pycache__/
+*.pyc
+node_modules/

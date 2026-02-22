@@ -1,0 +1,891 @@
+{
+  "summary": {
+    "total_frameworks": 514,
+    "categories": 14,
+    "tier_1": 45,
+    "tier_2": 65,
+    "tier_3": 398
+  },
+  "tier_1_master_systems": [
+    {
+      "name": "The Authority Building Sequence",
+      "category": "proof",
+      "sub_techniques": [
+        "The Social Proof Stack Formula",
+        "The 3 Tabloid Believability Techniques",
+        "The Expert Positioning Formula",
+        "The Social Proof Stacking System",
+        "The Testimonial Omnipresence Strategy",
+        "The 13 Proof Strategies",
+        "The Testimonial Power Strategy (4 Types)",
+        "The Authority Building Formula"
+      ]
+    },
+    {
+      "name": "Real-World Practitioner Credibility",
+      "category": "proof",
+      "sub_techniques": [
+        "The Social Proof Stack Formula",
+        "The 3 Tabloid Believability Techniques",
+        "The Expert Positioning Formula",
+        "The Social Proof Stacking System",
+        "The Testimonial Omnipresence Strategy",
+        "The 13 Proof Strategies",
+        "The Testimonial Power Strategy (4 Types)",
+        "The Authority Building Formula"
+      ]
+    },
+    {
+      "name": "The Social Proof Cascade",
+      "category": "proof",
+      "sub_techniques": [
+        "The Social Proof Stack Formula",
+        "The 3 Tabloid Believability Techniques",
+        "The Expert Positioning Formula",
+        "The Social Proof Stacking System",
+        "The Testimonial Omnipresence Strategy",
+        "The 13 Proof Strategies",
+        "The Testimonial Power Strategy (4 Types)",
+        "The Authority Building Formula"
+      ]
+    },
+    {
+      "name": "The Champion Positioning Strategy",
+      "category": "proof",
+      "sub_techniques": [
+        "The Social Proof Stack Formula",
+        "The 3 Tabloid Believability Techniques",
+        "The Expert Positioning Formula",
+        "The Social Proof Stacking System",
+        "The Testimonial Omnipresence Strategy",
+        "The 13 Proof Strategies",
+        "The Testimonial Power Strategy (4 Types)",
+        "The Authority Building Formula"
+      ]
+    },
+    {
+      "name": "Headline Impact on Profit Multiplication",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "The 10 Proven Headline Templates",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "The Headline-Offer Hierarchy Principle",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "The Six Headline Maxims (13X Multiplier)",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "The Headline Incompleteness Principle",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "The Emotional Echo Headline Formula",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "The Headline Power Framework (2 Functions)",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "The Direct Benefit Headline Paradox",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "The Headline's Job Definition",
+      "category": "headlines",
+      "sub_techniques": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ]
+    },
+    {
+      "name": "Traffic vs. Copy Diagnostic",
+      "category": "testing",
+      "sub_techniques": [
+        "A/B Testing Methodology",
+        "Beat the Control Analysis",
+        "Control-Beating Checklist",
+        "Control vs. Challenger Testing",
+        "Monthly Control Breaking System",
+        "Copy Testing ROI Formula",
+        "Copy Testing Protocol",
+        "Control-Beating Strategy"
+      ]
+    },
+    {
+      "name": "Test Panel Size Formula",
+      "category": "testing",
+      "sub_techniques": [
+        "A/B Testing Methodology",
+        "Beat the Control Analysis",
+        "Control-Beating Checklist",
+        "Control vs. Challenger Testing",
+        "Monthly Control Breaking System",
+        "Copy Testing ROI Formula",
+        "Copy Testing Protocol",
+        "Control-Beating Strategy"
+      ]
+    },
+    {
+      "name": "Rollout Decision Formula",
+      "category": "testing",
+      "sub_techniques": [
+        "A/B Testing Methodology",
+        "Beat the Control Analysis",
+        "Control-Beating Checklist",
+        "Control vs. Challenger Testing",
+        "Monthly Control Breaking System",
+        "Copy Testing ROI Formula",
+        "Copy Testing Protocol",
+        "Control-Beating Strategy"
+      ]
+    },
+    {
+      "name": "Post-Event Amplification System",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Five Event Themes",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Grassroots Excitement Creation Framework",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Four Crucial Event Driver Questions",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Four Crucial Event Driver Questions (Complete System)",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Event Revenue Formula",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Event Execution 8 Rules",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Five Event Themes with Topicality Principle",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Six Event Drivers",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Rolling Event Strategy",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Simulated Live Event Strategy",
+      "category": "events",
+      "sub_techniques": [
+        "Controversy at Event Technique",
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "List Size to Registration Ratio",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars",
+        "Pre-Event Planning System"
+      ]
+    },
+    {
+      "name": "Makepeace 12-Step Long Copy System",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Case History Dramatization",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Copy Rhythm System (Pacing & Amplitude Variation)",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Body Copy Momentum Sequence",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Long Copy Ladder",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Rhythm and Flow Formula (Sentence Length Variation)",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Rhythm Rule (Paragraph Length Optimization)",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Rhythm & Cadence System (Sentence Variation)",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Copy Outline Method",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Transition Mastery Formula",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Seven-Section Sales Letter Architecture",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "First Person Narrative Technique",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Deck Copy Formula",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Mechanism Explanation Pattern",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Logical Argument Construction System",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Conversational Copy System",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Logical Sales Argument",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    },
+    {
+      "name": "Readability Formula (Three-Layer Friction Removal)",
+      "category": "body-copy",
+      "sub_techniques": [
+        "Caption Writing System",
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)",
+        "Pacing and Amplitude Variation",
+        "Word Picture Transformation Method"
+      ]
+    }
+  ],
+  "category_families": {
+    "offers": {
+      "count": 23,
+      "tier_1": [],
+      "tier_2": [],
+      "tier_3": [
+        "Upsell Value Multiplier",
+        "Price Presentation Mastery",
+        "5W1H Offer Clarification System",
+        "The Offer Value Formula",
+        "Perceived Value Maximization"
+      ]
+    },
+    "proof": {
+      "count": 26,
+      "tier_1": [
+        "The Authority Building Sequence",
+        "Real-World Practitioner Credibility",
+        "The Social Proof Cascade",
+        "The Champion Positioning Strategy"
+      ],
+      "tier_2": [
+        "The Social Proof Stack Formula",
+        "The 3 Tabloid Believability Techniques",
+        "The Expert Positioning Formula",
+        "The Social Proof Stacking System",
+        "The Testimonial Omnipresence Strategy"
+      ],
+      "tier_3": [
+        "The Authority Building Formula",
+        "The Testimonial Power Strategy (4 Types)",
+        "The Fact Substantiation Requirement",
+        "The 4 Testimonial Questions Formula",
+        "The Gathering Testimonials Process"
+      ]
+    },
+    "bullets": {
+      "count": 14,
+      "tier_1": [],
+      "tier_2": [
+        "Blind vs Naked Bullets"
+      ],
+      "tier_3": [
+        "Blind Benefit Bullet Formula (Teaser Formula v2)",
+        "Fascination Writing Formula",
+        "Blind Benefit Bullet Formula",
+        "4 Types of Bullet Points",
+        "Fascination Bullet Formulas"
+      ]
+    },
+    "leads": {
+      "count": 8,
+      "tier_1": [],
+      "tier_2": [],
+      "tier_3": [
+        "The Question Lead Technique",
+        "The Story Opening Formula",
+        "The 24 Lead Starters",
+        "The Fear vs. Benefit Lead Framework",
+        "The 24 Opening Hook Patterns"
+      ]
+    },
+    "headlines": {
+      "count": 14,
+      "tier_1": [
+        "Headline Impact on Profit Multiplication",
+        "The 10 Proven Headline Templates",
+        "The Headline-Offer Hierarchy Principle",
+        "The Six Headline Maxims (13X Multiplier)",
+        "The Headline Incompleteness Principle"
+      ],
+      "tier_2": [
+        "The 8 Pre-Head Formulas",
+        "The Bookstore Research Method",
+        "The 40+ Headline Starters",
+        "Progressive Headline Testing System",
+        "The Ten Headline Templates System"
+      ],
+      "tier_3": []
+    },
+    "psychology": {
+      "count": 86,
+      "tier_1": [],
+      "tier_2": [],
+      "tier_3": [
+        "HIDDEN BENEFIT MINING\u2122",
+        "THE COMMITMENT & CONSISTENCY PATTERN\u2122",
+        "THE PROSPECT PSYCHOLOGY FRAMEWORK (4 FACTORS)\u2122",
+        "THE SIMILARITY = PERSUASION PATTERN\u2122",
+        "THE \"I CAN'T HELP YOU IF YOU WON'T LET ME\" PATTERN\u2122"
+      ]
+    },
+    "business": {
+      "count": 66,
+      "tier_1": [],
+      "tier_2": [
+        "Long-Term Relationship Positioning",
+        "Geographic-Demographic-Psychographic Targeting",
+        "Rate Card Negotiation System",
+        "Hard Cost Minimization Strategy",
+        "The Dream Partner Identification Framework"
+      ],
+      "tier_3": [
+        "The Email Economics Formula",
+        "The Direct Mail Economics Formula",
+        "The Break-Even Customer Acquisition Strategy",
+        "The Royalty Copywriter System",
+        "The Four Steps OPM Business"
+      ]
+    },
+    "testing": {
+      "count": 12,
+      "tier_1": [
+        "Traffic vs. Copy Diagnostic",
+        "Test Panel Size Formula",
+        "Rollout Decision Formula"
+      ],
+      "tier_2": [
+        "A/B Testing Methodology",
+        "Control vs. Challenger Testing",
+        "Control-Beating Strategy",
+        "Landing Page Conversion Benchmarks"
+      ],
+      "tier_3": [
+        "Beat the Control Analysis",
+        "Control-Beating Checklist",
+        "Monthly Control Breaking System",
+        "Copy Testing ROI Formula",
+        "Copy Testing Protocol"
+      ]
+    },
+    "events": {
+      "count": 29,
+      "tier_1": [
+        "Post-Event Amplification System",
+        "Five Event Themes",
+        "Grassroots Excitement Creation Framework",
+        "Four Crucial Event Driver Questions",
+        "Four Crucial Event Driver Questions (Complete System)"
+      ],
+      "tier_2": [
+        "Post-Event Two-Track System",
+        "12-Step Event Script",
+        "Five Event Formats",
+        "Event Replay Engagement Cycle",
+        "5 Pre-Event Planning Pillars"
+      ],
+      "tier_3": [
+        "Controversy at Event Technique",
+        "List Size to Registration Ratio",
+        "Event Hosting Cost Economics",
+        "The 50% Rule (Event Attendance Benchmark)",
+        "Event Hosting Vendor Selection System"
+      ]
+    },
+    "structure": {
+      "count": 64,
+      "tier_1": [],
+      "tier_2": [
+        "3-PS Conversion Stack",
+        "The Multiple Link Maximization Strategy",
+        "The Crosshead System",
+        "The Landing Page Conversion Formula (7 Elements)"
+      ],
+      "tier_3": [
+        "structure-gap-analysis-strategy",
+        "The Five Power P's Strategies",
+        "The Typography Power System",
+        "Web Typography Standards",
+        "The Subhead Validation Technique"
+      ]
+    },
+    "closes": {
+      "count": 29,
+      "tier_1": [],
+      "tier_2": [],
+      "tier_3": [
+        "The No Results Guarantee Reversal",
+        "The Sum Up Formula",
+        "The PS Litmus Test",
+        "The Three Guarantee Types",
+        "The Kick-Ass Order Form Framework"
+      ]
+    },
+    "email": {
+      "count": 38,
+      "tier_1": [],
+      "tier_2": [
+        "Deadline Cascade (Timing Optimization)"
+      ],
+      "tier_3": [
+        "Drip Campaign Architecture (Horizontal + Vertical Marketing)",
+        "Welcome Sequence Formula (New Subscriber Onboarding)",
+        "Missed It Recovery Sequence",
+        "HTML vs Text Timing Strategy",
+        "Subject Line System"
+      ]
+    },
+    "body-copy": {
+      "count": 37,
+      "tier_1": [
+        "Makepeace 12-Step Long Copy System",
+        "Case History Dramatization",
+        "Copy Rhythm System (Pacing & Amplitude Variation)",
+        "Body Copy Momentum Sequence",
+        "Long Copy Ladder"
+      ],
+      "tier_2": [
+        "Post-Event Sales Page (10-Step Outline)",
+        "Transition Phrases System",
+        "Chart/Graph Copy Integration System",
+        "Formatting Readability Principles",
+        "Story-Scenario Method (Abstract to Vivid)"
+      ],
+      "tier_3": [
+        "Caption Writing System",
+        "Pacing and Amplitude Variation",
+        "Amnesia Prevention Technique",
+        "White Space Optimization Framework",
+        "3-T Formula (Tell Three Times)"
+      ]
+    },
+    "process": {
+      "count": 68,
+      "tier_1": [],
+      "tier_2": [],
+      "tier_3": [
+        "THE 3-FACTOR MARKET RESEARCH FRAMEWORK",
+        "THE OBJECTION PREEMPTION SYSTEM",
+        "THE ACTIVE WORDS ADVANTAGE",
+        "THE READ-ALOUD EDITING METHOD",
+        "THE THREE ESSENTIAL RESEARCH KEYS"
+      ]
+    }
+  },
+  "common_pairings": [
+    {
+      "primary": "headlines",
+      "pairs_with": [
+        "leads",
+        "psychology"
+      ],
+      "reason": "Headlines lead to leads, psychology powers both"
+    },
+    {
+      "primary": "body-copy",
+      "pairs_with": [
+        "proof",
+        "psychology"
+      ],
+      "reason": "Body copy needs proof integration and psychological hooks"
+    },
+    {
+      "primary": "offers",
+      "pairs_with": [
+        "closes",
+        "psychology"
+      ],
+      "reason": "Offers need closing techniques and psychological triggers"
+    },
+    {
+      "primary": "events",
+      "pairs_with": [
+        "email",
+        "psychology"
+      ],
+      "reason": "Events rely on email promotion and psychological momentum"
+    },
+    {
+      "primary": "email",
+      "pairs_with": [
+        "headlines",
+        "structure"
+      ],
+      "reason": "Emails need strong subjects and structural frameworks"
+    }
+  ]
+}
