@@ -188,6 +188,13 @@ If the user mentions being sick or unwell:
 
 ## Weekly Review Processing
 
+### Step 0: Load Goals Reference
+
+Before compiling the review, read the goals reference note:
+`10.00 Journal/2026/2026 Systems and Goals.md`
+
+This contains the four big goals and the success system definition. Use it to populate the Big Goals Progress section accurately.
+
 ### Step 1: Gather Daily Notes
 
 Read all daily notes for the week (Sunday through Saturday or Monday through Sunday as specified):
@@ -269,6 +276,24 @@ C:\Users\bruce\Documents\Notes\20.00 Journal\2026\2026-MM-DD [Day].md
 
 ### BruceFleck.com
 - [Summary]
+
+---
+
+## Big Goals Progress
+
+### Goal 1: AIPP — $10k/Month (Book + Course + Community)
+**Target:** $10,000/month from book sales, course sales, and community subscription
+- **This week's activities:** [What was done to advance AIPP — writing, publishing, marketing, community building]
+- **Momentum indicators:** [Any sales, signups, leads, content published, milestones hit]
+- **Assessment:** [On track / Building momentum / Stalled / Not started this week]
+- **Next move:** [The single most important action to advance this goal next week]
+
+### Goal 2: AIBC — $20k/Month (AI Biz Connection)
+**Target:** $20,000/month from AI Biz Connection services and programs
+- **This week's activities:** [Lead gen, client work, proposals, outreach, partnerships, programs]
+- **Revenue indicators:** [New clients, retained clients, proposals sent, conversations active]
+- **Assessment:** [On track / Building momentum / Stalled / Not started this week]
+- **Next move:** [The single most important action to advance this goal next week]
 
 ---
 
