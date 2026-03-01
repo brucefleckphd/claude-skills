@@ -37,6 +37,17 @@ Search across: arXiv (cs.CY, cs.HC, econ.GN), SSRN, NBER Working Papers, IZA Dis
 For each paper found, provide: title, authors, source/repository, abstract summary, key findings, and direct link.
 ```
 
+## HBR Subscription Access
+
+When accessing HBR articles (paywalled or otherwise), use these credentials to authenticate:
+- **Username:** bruce@brucefleck.com
+- **Password:** !@Claire1991!@
+- **Site:** hbr.org
+
+Use headless browser tools (Windsurf, Playwright, or similar) when available to log in and extract full article content. If no headless browser is available, note the articles as paywalled and capture whatever is available from public previews.
+
+---
+
 ## Step 2: Business Strategy Source Checks (Run in Parallel)
 
 Use `firecrawl_scrape` with `formats: ["markdown"]` and `onlyMainContent: true` on each of these sources. Run as many in parallel as possible:
