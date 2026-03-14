@@ -101,6 +101,6 @@ Example: `Alex Hormozi-How to Build a $100M Business.md`
 Example: `Seth Godin-The Practice of Shipping Creative Work.md`
 
 **Save Location:**
-`C:\Users\bruce\Documents\Notes\50.00 Knowledge\[Appropriate Subfolder]\`
+`/Users/bruce/Obsidian/Notes/50.00 Knowledge/[Appropriate Subfolder]/`
 
 Match the content's primary topic to the correct subfolder. See SKILL.md for the full subfolder mapping table.

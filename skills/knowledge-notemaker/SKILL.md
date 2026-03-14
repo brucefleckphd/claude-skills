@@ -12,7 +12,7 @@ description: |
   - YouTube URLs → transcript extraction
   - All other URLs → article/blog scrape
   
-  Saves notes to appropriate subfolder in: C:\Users\bruce\Documents\Notes\50.00 Knowledge\
+  Saves notes to appropriate subfolder in: /Users/bruce/Obsidian/Notes/50.00 Knowledge/
 ---
 
 # Knowledge Note Maker
@@ -43,14 +43,31 @@ Create structured learning notes from YouTube video transcripts or web articles/
 ## Content Acquisition
 
 ### YouTube Videos
-**Option A - Firecrawl scrape:**
-Use `firecrawl_scrape` on the YouTube URL with `formats: ["markdown"]`. The YouTube postprocessor will return the transcript automatically.
 
-**Option B - Web fetch:**
-Use `web_fetch` on the YouTube URL. Extract transcript from the page content.
+**Step 1 — Get title and author:**
+```bash
+/Users/bruce/Library/Python/3.9/bin/yt-dlp --get-title "URL" 2>/dev/null
+/Users/bruce/Library/Python/3.9/bin/yt-dlp --print "%(uploader)s" "URL" 2>/dev/null
+```
 
-**Option C - User provides transcript:**
-If automated extraction fails, ask user to paste the transcript from YouTube's transcript feature or a browser extension.
+**Step 2 — Download and clean transcript:**
+```bash
+/Users/bruce/Library/Python/3.9/bin/yt-dlp --write-auto-sub --skip-download --sub-format vtt -o "/tmp/yt_transcript" "URL" 2>/dev/null
+
+sed -e '/^WEBVTT/d' -e '/^Kind:/d' -e '/^Language:/d' \
+    -e '/^[0-9][0-9]:[0-9][0-9]/d' -e '/^$/d' \
+    -e 's/<[^>]*>//g' /tmp/yt_transcript.*.vtt \
+  | awk '!seen[$0]++' > /tmp/yt_transcript.txt
+```
+
+The `sed` pass strips VTT headers, timestamp lines, blank lines, and inline HTML tags. The `awk` pass removes duplicate lines produced by rolling auto-captions.
+
+**Step 3 — Clean up temp files (after note is saved):**
+```bash
+rm -f /tmp/yt_transcript.*.vtt /tmp/yt_transcript.txt
+```
+
+**If yt-dlp fails** (video has no captions): Ask user to open YouTube → click `...` below video → **Open transcript** → select all → paste here.
 
 ### Web Articles
 **Option A - Firecrawl scrape (preferred):**
@@ -171,7 +188,7 @@ date-created: YYYY-MM-DD
 - Example: `Joanna Wiebe-How To Grow Your Business With Storytelling.md`
 - Example: `Seth Godin-The Practice of Shipping Creative Work.md`
 
-**Save location:** `C:\Users\bruce\Documents\Notes\50.00 Knowledge\[Subfolder]\`
+**Save location:** `/Users/bruce/Obsidian/Notes/50.00 Knowledge/[Subfolder]/`
 
 Always confirm the subfolder selection makes sense for the content before saving.
 
