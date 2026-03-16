@@ -17,7 +17,12 @@ description: >-
 
 **Age:** 65
 **Current role:** Corporate employee, ~30 hours/week, $185,000/year
-**Business entities:** Agency LLC (content/AI marketing services) + AI Education LLC (courses, memberships, training)
+**Business entities:**
+- **AI Biz Connection (AIBC)** — done-for-you AI marketing services for health practitioners (co-owned with Chantal Cox)
+- **AI-Powered Professional (AIPP) ecosystem** — education/training empire under AIBizProfessional.com (Bruce solo)
+- **BJF Ventures, LLC** — holding entity; BruceFleck.com is a DBA
+- **BJF Media Group** — publishing arm (form LLC before Book 1 publishes)
+**Personal brand:** BruceFleck.com — personal authority hub; PhD in psychology and technology adoption
 **Primary work preferences:** Writing, teaching, speaking
 **Goal:** Replace corporate income with $25k–$50k/month in recurring business income while working 20–30 hours/week from any location
 
@@ -108,10 +113,65 @@ When helping with weekly planning:
 4. **Flag low-leverage activities** that are filling time without moving MRR
 5. **Surface one "stop doing" item** — what should Bruce say no to this week?
 
+## Brand Architecture
+
+```
+BJF Ventures, LLC (holding)
+│
+├── BruceFleck.com — Personal authority hub
+│   PhD in psychology + technology adoption
+│   Does NOT sell. Routes to all ventures.
+│   @brucefleckphd on YouTube (personal brand channel)
+│
+├── AIBizProfessional.com — Master commercial brand (AIPP ecosystem)
+│   Revenue gravity center. Bruce solo.
+│   ↑ fed by practicalai.guide (content sub-brand)
+│
+├── practicalai.guide — YouTube show + free content
+│   Co-produced with Bower Himes (Bruce = CCO, Bower = CTO)
+│   Separate YouTube channel from @brucefleckphd (partnership hygiene)
+│   YouTube revenue: 50/50. Certification revenue: 100% Bruce.
+│
+├── AI Biz Connection (AIBC) — Service agency
+│   Co-owned with Chantal Cox. Health practitioners only.
+│   Separate track — does NOT feed AIPP funnel.
+│
+└── BJF Media Group — Publishing arm
+    Publishes all book series. Form LLC before Book 1.
+```
+
+**Delivery platform:** GoHighLevel hosts all communities and courses. Facebook pages are traffic tools only.
+
+---
+
 ## Business Entity Quick Reference
 
-**Agency LLC** — Services business. Target: 5–10 high-value retainer clients for predictable MRR. Preferred offers: ongoing AI content setup, content marketing retainers, advisory arrangements.
+### AI Biz Connection (AIBC)
+- **Type:** Done-for-you AI marketing agency
+- **Niche:** Health practitioners (naturopaths, chiropractors, therapists, health coaches)
+- **Partner:** Chantal Cox (co-founder)
+- **Status:** 89% complete, scaling well
+- **Value ladder:** $250/mo → $500/mo → $1,500/mo → $2,500/mo
+- **Key framework:** Authority Architecture, 5-S Strategic Framework
+- **Target:** 5–10 retainer clients for predictable MRR
 
-**AI Education LLC** — Education business. Target: scalable recurring revenue through memberships, cohort/evergreen courses, and content licensing to companies or associations.
+### AIBizProfessional.com (AIPP Ecosystem)
+- **Type:** Education/training brand. Bruce solo.
+- **Status:** 48-58% complete, actively building
+- **Target audience:** "Alex" — mid-career professionals, coaches, consultants (35–55)
+- **Product stack:**
+  - Free companion course (book series entry point) → GoHighLevel
+  - AI Impact Community ($47/month) → GoHighLevel
+  - AI Biz Professional Certification ($1,500) → GoHighLevel
+  - Elite AI Visionary Network (30 seats, premium TBD) → GoHighLevel
+- **Content engine:** practicalai.guide YouTube (routes every episode → certification)
+
+### practicalai.guide (YouTube Co-Production)
+- **Type:** Content sub-brand / top-of-funnel for AIBizProfessional.com
+- **Partner:** Bower Himes (CTO — production, project management, tech)
+- **Bruce's role:** CCO — content direction, marketing strategy, psychology of adoption
+- **Revenue split:** YouTube income 50/50; certification revenue 100% Bruce
+- **Decision authority:** Bruce has final say on creative/business; Bower on technical/production
+- **Asset ownership:** Bruce owns domain and channel regardless of traction
 
 **Full revenue model details:** See [income-models.md](references/income-models.md)

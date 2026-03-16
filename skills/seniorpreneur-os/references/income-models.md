@@ -8,98 +8,119 @@
 
 ---
 
-## Agency LLC — Revenue Model
+## AI Biz Connection (AIBC) — Revenue Model
 
-### Primary Model: Retainer-Based MRR
+**Partner:** Chantal Cox (co-founder)
+**Niche:** Health practitioners — naturopaths, chiropractors, therapists, health coaches
+**Status:** 89% complete, scaling. Primary framework: Authority Architecture / 5-S Strategic Framework.
+**Key differentiator:** "Top 3 Map Pack in 6 months or we work for free"
 
-**Target:** 5–10 clients at $2,000–$5,000/month each = $10k–$50k MRR
+### Value Ladder (Confirmed)
 
-**Why retainers over projects:**
-- Predictable cash flow for transition planning
-- Relationship deepens over time, reducing churn
-- Easier to delegate/systemize than bespoke project work
+| Tier | Monthly | What's Delivered |
+|------|---------|-----------------|
+| ClientConnector CRM | $250/mo | CRM setup and maintenance |
+| AI Receptionist | $500/mo | AI-powered intake and follow-up |
+| Visibility Package | $1,500/mo | Full visibility and SEO |
+| Authority Package | $2,500/mo | Complete Authority Architecture |
 
-### Preferred Retainer Types
+**Target:** 5–10 retainer clients for predictable MRR. Chantal handles delivery; Bruce handles strategy and growth.
 
-| Offer Type | Monthly Range | What's Delivered |
-|-----------|---------------|------------------|
-| AI Content System Setup + Maintenance | $2,000–$4,000 | Initial setup + monthly optimization, content templates |
-| Ongoing Content Marketing | $2,500–$5,000 | Monthly content calendar, writing/editing, distribution |
-| AI Advisory Retainer | $3,000–$7,500 | Monthly strategy calls + async consulting on AI implementation |
-| Fractional CMO / AI Strategist | $4,000–$10,000 | Senior-level part-time engagement |
+### Lead Sources for AIBC Clients
 
-### Lead Sources for Agency Clients
-
-- Speaking engagements → corporate referrals
-- Bruce's AI education audience → graduates who want done-for-them services
-- Existing network in health practitioner and professional services niches
-- LinkedIn content that demonstrates AI ROI
+- Speaking engagements → health practitioner referrals
+- LinkedIn content demonstrating AI ROI in healthcare
+- Existing practitioner networks
 
 ### Delegation Path
 
-Once a retainer model is validated (3+ clients, consistent delivery):
-1. Document the process → SOP
-2. Hire a contractor/VA for delivery components
-3. Retain client relationship and strategy oversight
-4. Bruce's 10–20 hrs/week protects the relationship, not the execution
+Chantal Cox is the operational delivery partner. Bruce's role is business development and strategy — not execution. Protect this distinction as AIBC scales.
 
 ---
 
-## AI Education LLC — Revenue Model
+## AIBizProfessional.com (AIPP Ecosystem) — Revenue Model
 
-### Primary Model: Membership + Licensing
+**Owner:** Bruce Fleck (solo — no partners in this entity)
+**Status:** 48-58% complete, actively building
+**Platform:** GoHighLevel — `members.aibizprofessional.com`
+**Link shortener:** `aibizpro.link` (same pattern as `ai-bc.link` for AIBC)
+**Target audience:** "Alex" — mid-career professionals, coaches, consultants (35–55)
+**Content engine:** practicalai.guide YouTube (co-produced with Bower Himes)
+**Internal abbreviation:** PAIP = Practical AI for Professionals (Tier 2 community + YouTube show)
 
-**Target MRR breakdown (at Stage 3 — $50k/mo):**
-- Membership community: $5k–$15k/mo
-- Course sales (evergreen): $5k–$10k/mo
-- Corporate licensing: $10k–$20k/mo
-- Cohort programs: $5k–$10k/mo
+### Three-Tier Community Architecture
+
+**Platform hub:** `members.aibizprofessional.com` (GoHighLevel)
+
+| Tier | Product | Price | Type | Platform |
+|------|---------|-------|------|----------|
+| Top-of-funnel | Free companion course / "7 Essential Skills" ebook | Free | Lead gen | GoHighLevel / direct |
+| Tier 1 | Free Community (book companions + resources) | Free | Audience builder | GoHighLevel |
+| Tier 2 | Practical AI for Professionals community | $9/$27/$47/mo (founding pricing) | Entry paid community | GoHighLevel |
+| Core revenue | AI Biz Professional Certification | $1,500 | Credentialing | GoHighLevel |
+| Tier 3 | AI Business Professional Community (post-cert) | 6 mo included / TBD ongoing | Graduate community | GoHighLevel |
+| Alumni | Annual Re-certification | $297–$497/year | Recurring alumni revenue | GoHighLevel |
+| Premium | Elite AI Visionary Network | TBD (premium) | 30 seats, high-touch mastermind | GoHighLevel |
+
+**Tier 2 Founding Member Pricing (locked for life at tier entered):**
+- First 50 members: $9/month
+- Members 51–300: $27/month
+- 301+ standard rate: $47/month
 
 ### Revenue Streams Ranked by Leverage
 
 **1. Membership / Community (Highest recurring leverage)**
-- Format: Monthly or annual subscription for business professionals learning AI
-- Price range: $47–$197/month or $497–$1,997/year
-- Content: Monthly training, live Q&A, community access, resource library
+- Tier 2: Practical AI for Professionals — $9/$27/$47/month (founding tiers)
+- Tier 3: Post-certification community — 6 mo included; ongoing TBD
+- Annual Re-certification: $297–$497/year from alumni base (predictable recurring)
 - Key metric: Churn rate. Under 5% monthly = healthy
-- Tie-in: Bruce's books and talks feed the top of this funnel
+- Tie-in: Books and practicalai.guide YouTube feed the top of this funnel
 
-**2. Corporate Licensing (Highest revenue ceiling)**
-- Format: License Bruce's AI curriculum to companies, associations, or training providers
+**2. Certification (Core Revenue + Credentialing Asset)**
+- AI Biz Professional Certification: $1,500
+- Credentialed graduates become marketing assets for corporate licensing
+- GoHighLevel hosts curriculum, assessment, and community
+- Re-certification ($297–$497/year) creates recurring alumni revenue stream
+
+**3. Corporate Licensing (Highest revenue ceiling)**
+- Format: License AI curriculum to companies, associations, or training providers
 - Price range: $5,000–$50,000+ per license/year
-- Variations: White-label course, branded workshop curriculum, train-the-trainer
 - Trigger: Corporate workshop → proposal to license curriculum for internal rollout
 - No additional delivery hours required once curriculum is built
 
-**3. Evergreen Courses with Payment Plans**
-- Format: Self-paced course with optional certification
-- Price range: $297–$1,997 (or $97–$297/month on payment plan)
-- Certification adds: credibility, retention, and licensing value
-- Tie-in: Book → course → membership upsell path
-- Traffic: Speaking, podcast appearances, email list
+**4. Elite AI Visionary Network (Premium Add-On)**
+- 30 seats maximum — intentionally limited
+- High-touch, peer-level mastermind
+- Pricing TBD; premium positioning above certification price
+- Sits outside the three-tier structure as a premium add-on
 
-**4. Cohort Programs (Highest transformation, highest price point)**
-- Format: 6–10 week live cohort, limited enrollment
-- Price range: $1,500–$5,000 per participant
-- Best for: Business professionals who want accountability, not just content
-- Frequency: 2–4x per year to avoid delivery fatigue
-- Converts: Into membership for ongoing community after cohort
-
-### Content-to-Product Ladder
+### Content-to-Revenue Ladder
 
 ```
-Signature Book (AI for Business Professionals)
+Book: AI-Powered Professional series (BJF Media Group)
     ↓
-Online Course (self-paced, $497–$1,997)
+Tier 1: Free Community (GoHighLevel — book readers + lead magnets)
     ↓
-Membership Community ($97–$197/month)
+Tier 2: Practical AI for Professionals ($9→$27→$47/month — GoHighLevel)
+  ↑ fed by practicalai.guide YouTube episodes
     ↓
-Cohort Program ($2,000–$5,000)
+AI Biz Professional Certification ($1,500 — GoHighLevel) ← CORE REVENUE
+    ↓
+Tier 3: AI Business Professional Community (6 mo included, then TBD)
+Annual Re-certification ($297–$497/year)
+    ↓
+Elite AI Visionary Network (30 seats, premium — GoHighLevel)
     ↓
 Corporate Licensing ($5,000–$50,000/year)
 ```
 
-Each rung feeds the next. The book is the acquisition engine, the membership is the retention engine, licensing is the scale engine.
+The book is the acquisition engine. The community is the retention engine. The certification is the transformation engine. Re-certification is the recurring alumni engine. Licensing is the scale engine.
+
+### practicalai.guide Revenue Note
+
+YouTube channel ad/sponsorship revenue splits 50/50 with Bower Himes. This is separate from AIBizProfessional.com revenue, which is 100% Bruce. Each episode drives viewers explicitly to the Tier 2 community (members.aibizprofessional.com). practicalai.guide domain redirects to the hub — it is not its own destination.
+
+**Open item:** Bower's affiliate rate for Tier 2 community signups originating from YouTube (recommended: 10–15%). Must be agreed before Tier 2 launch.
 
 ---
 

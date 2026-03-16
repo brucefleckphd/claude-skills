@@ -370,6 +370,7 @@ Based on Systems Planning priorities:
 - Add habits or work items the user didn't mention
 - Change the structure of existing daily note content
 - Delete or modify content already in the daily note (except updating empty habit fields)
+- Create task checkboxes (`- [ ]`) for Tomorrow's Plan items on the daily note — use plain bullet points instead
 
 ### ALWAYS DO:
 - Preserve exact spelling of names (Jodi, Gaudet, etc.)
@@ -377,3 +378,13 @@ Based on Systems Planning priorities:
 - Include all mentioned activities
 - Maintain consistent formatting with previous daily summaries
 - Note when highest-leverage activities (exercise, lead gen) were missed
+
+## To-Do Items Mentioned in Reflection
+
+When the user mentions a task or to-do item during their evening review, **ask before adding it anywhere**:
+
+> "You mentioned [task]. Do you want me to add this as a task in the monthly To Do List (`2026-MM To Do List.md`), or just note it as a bullet point in the daily summary?"
+
+**Why:** Bruce typically adds tasks to the monthly To Do List himself. Creating duplicate task entries on the daily note creates redundancy and clutter. In most cases, bullet points on the daily note are sufficient — the task already exists in the monthly list.
+
+**Default:** If the user doesn't respond or it's clearly already tracked, list as a bullet point only.
