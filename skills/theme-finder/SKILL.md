@@ -1,9 +1,9 @@
 ---
-name: theme-factory
-description: Use when working with content theme notes (type theme-note) in 21.19 Content/Content-Themes, when applying visual design themes to presentation artifacts, or when connecting themes to supporting knowledge in 50.00 Knowledge
+name: theme-finder
+description: Use when finding new themes or updating existing themes based on daily AI news briefs and weekly deep dive articles. Works with content theme notes (type theme-note) in 21.19 Content/Content-Themes and connects themes to supporting knowledge in 50.00 Knowledge
 ---
 
-# Theme Factory
+# Theme Finder
 
 Two distinct workflows in one skill:
 1. **Knowledge Integration** — connect content theme notes to relevant knowledge notes

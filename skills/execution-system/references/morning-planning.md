@@ -136,11 +136,23 @@ Ensure these are scheduled:
 
 ## Integration with Daily Note
 
-After generating the plan, offer to add it to the daily note:
+After generating the plan, **automatically save it to the daily note without asking**. Do not prompt the user — just write it.
 
-"Would you like me to add this plan to your daily note at `C:\Users\bruce\Documents\Notes\20.00 Journal\2026\[date].md`?"
+**Daily note path:** `10.00 Journal/2026/[YYYY-MM-DD Weekday].md`
 
-If yes, add the Daily Plan section to the "My Primary Intentions" section of the daily note.
+Add the plan content to the **"My Primary Intentions"** section of the daily note, including:
+- Today's Focus (1-2 sentence summary)
+- Schedule table
+- Must Do Today (as `#task` items with due date and category prefix C/B/P)
+- Should Do Today (as `#task` items)
+- Nice to Have (as `#task` items)
+
+Task format: `- [ ] #task [C/B/P] - Description 📅 YYYY-MM-DD`
+- C = Cook Medical
+- B = Business (AIBC, BruceFleck.com)
+- P = Personal
+
+After saving, confirm: "Daily plan saved to `[file path]`."
 
 ## Constraints
 
