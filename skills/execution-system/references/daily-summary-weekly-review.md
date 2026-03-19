@@ -40,6 +40,14 @@ Read the target daily note file at:
 
 Confirm the file exists and note the current state of the Habits section.
 
+### Step 1b: Ask for Insights and Reflections
+
+Before extracting information, ask:
+
+> "Before I process today's summary — do you have any insights, reflections, or lessons from today you'd like to capture? (What went well, what you'd do differently, patterns you noticed, anything worth remembering.)"
+
+Wait for the user's response. If they provide insights, include them in the Daily Summary under a **Reflections** section. If they say no or skip, proceed without it.
+
 ### Step 2: Extract Information from Reflection
 
 Parse the user's reflection to extract:
@@ -123,6 +131,9 @@ Insert the Daily Summary section before the "## Completed Today:" section.
 
 ### Personal
 - [Personal items]
+
+### Reflections
+- [Insights, lessons, patterns noticed, or things to remember — only include if the user provided input in Step 1b]
 
 ### Tomorrow's Plan ([Day] [Date])
 - [ ] [Planned item]
