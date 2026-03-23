@@ -1,7 +1,14 @@
 ---
 name: mimetic-market-intelligence
-description: "This skill should be used when the user asks to \"run a mimetic analysis\", \"map competitor desires\", \"analyze market positioning\", \"find differentiation opportunities\", \"run /mimetic\", or mentions competitive desire mapping, mimetic convergence, Girardian analysis, or desire-level market intelligence. Applies Girard's mimetic desire theory to competitive market analysis. Produces 6 documents in 2 phases: Phase 1 (Docs 1-3) from live web research, Phase 2 (Docs 4-6) after client conversation."
+description: "Applies Girard's mimetic desire theory to competitive market analysis. Maps what DESIRES competitors mediate (not features), where the market has converged into sameness, and where open positioning space exists. Produces 6 documents in 2 phases. Phase 1 (Docs 1-3) runs from research alone. Phase 2 (Docs 4-6) requires client conversation. Use when: competitive analysis, market positioning, desire mapping, differentiation strategy."
 version: 2.0.0
+author: Strategic Profits / Deep Marketing Thinkers Series
+source_thinker: "René Girard (Mimetic Desire Theory)"
+programs: [ZenithPro, Force Multiplier, Connect the Dots]
+interface:
+  invoke: "/mimetic {mode} [market|client-name]"
+  called_by: [user]
+  outputs_to: [client-output-folder]
 ---
 
 # Mimetic Market Intelligence
@@ -36,7 +43,7 @@ These are hard constraints. If any is violated, the output is invalid regardless
 
 ## PURPOSE
 
-Map competitive markets at the DESIRE level, not the feature level. Standard competitive analysis compares products, features, and pricing. This analyzes what IDENTITY each competitor offers the buyer, which competitors are unconsciously imitating each other (mimetic convergence), and where genuine desire territory is open.
+This skill maps competitive markets at the DESIRE level, not the feature level. Standard competitive analysis compares products, features, and pricing. This analyzes what IDENTITY each competitor offers the buyer, which competitors are unconsciously imitating each other (mimetic convergence), and where genuine desire territory is open.
 
 Based on Rene Girard's mimetic desire theory: people do not want things independently. They want what they see others wanting. Desire is triangular -- Subject, Model, Object. Every competitor in a market functions as a MODEL who mediates specific desires for their buyers.
 
@@ -407,10 +414,8 @@ references/
 
 Consult these for: exact section structure, evidence density expectations, originator vs. imitator framing, and appropriate tone.
 
-Phase 2 gold standards (Docs 4-6) are included in this skill's `references/` folder:
-- `references/STRATEGY - Doc 4 - Visibility and Model Strategy.md`
-- `references/STRATEGY - Doc 5 - Desire Unification Strategy.md`
-- `references/STRATEGY - Doc 6 - Internal Mediator Deployment.md`
+Phase 2 gold standards (Docs 4-6) are at:
+`/Users/richardschefren/Documents/Obsidian/Active-Brain/01 Strategic Profits/00 Program Development/Deep Marketing Thinkers/STRATEGY - Doc 4/5/6 *.md`
 
 ---
 

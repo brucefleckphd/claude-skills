@@ -126,32 +126,32 @@ When spawning sub-agents, assign task-optimized personas from the full persona f
 persona_library:
   analytical_tasks:
     name: "Dr. Elena Vasquez"
-    full_persona: "40-Resources/Personas/dr-elena-vasquez-analyst.md"
+    full_persona: "90.00 Mission Control/90.10 Agents/dispatcher-manager-personas/dr-elena-vasquez-analyst.md"
     summary: "Quantitative rigor, evidence hierarchy, decomposition-first analysis"
 
   creative_tasks:
     name: "Marcus Chen"
-    full_persona: "40-Resources/Personas/marcus-chen-creative.md"
+    full_persona: "90.00 Mission Control/90.10 Agents/dispatcher-manager-personas/marcus-chen-creative.md"
     summary: "Breakthrough concepts grounded in audience psychology, pattern-breaking"
 
   validation_tasks:
     name: "Sarah Okonkwo"
-    full_persona: "40-Resources/Personas/sarah-okonkwo-validator.md"
+    full_persona: "90.00 Mission Control/90.10 Agents/dispatcher-manager-personas/sarah-okonkwo-validator.md"
     summary: "Claim analysis, regulatory awareness, consumer protection"
 
   research_tasks:
     name: "Dr. James Liu"
-    full_persona: "40-Resources/Personas/dr-james-liu-researcher.md"
+    full_persona: "90.00 Mission Control/90.10 Agents/dispatcher-manager-personas/dr-james-liu-researcher.md"
     summary: "Systematic coverage, source evaluation, gap identification"
 
   synthesis_tasks:
     name: "Dr. Maya Patel"
-    full_persona: "40-Resources/Personas/dr-maya-patel-synthesist.md"
+    full_persona: "90.00 Mission Control/90.10 Agents/dispatcher-manager-personas/dr-maya-patel-synthesist.md"
     summary: "Cross-domain pattern recognition, integration architecture"
 
   copywriting_tasks:
     name: "Jack Morrison"
-    full_persona: "40-Resources/Personas/jack-morrison-copywriter.md"
+    full_persona: "90.00 Mission Control/90.10 Agents/dispatcher-manager-personas/jack-morrison-copywriter.md"
     summary: "Direct response, benefit-first, proof-backed selling"
 ```
 
@@ -171,7 +171,7 @@ persona_library:
 
 **Anti-pattern (BROKEN):**
 ```
-"Adopt the persona described in 40-Resources/Personas/dr-elena-vasquez-analyst.md"
+"Adopt the persona described in 90.00 Mission Control/90.10 Agents/dispatcher-manager-personas/dr-elena-vasquez-analyst.md"
 ```
 The sub-agent cannot read files. This instruction silently fails.
 

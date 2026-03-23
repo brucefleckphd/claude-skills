@@ -51,16 +51,37 @@ Create structured learning notes from YouTube video transcripts or web articles/
 ```
 
 **Step 2 — Download and clean transcript:**
-```bash
-/Users/bruce/Library/Python/3.9/bin/yt-dlp --write-auto-sub --skip-download --sub-format vtt -o "/tmp/yt_transcript" "URL" 2>/dev/null
 
+YouTube requires a PO token for caption access. Use `--cookies-from-browser chrome` as the primary method — it resolves this automatically:
+
+```bash
+/Users/bruce/Library/Python/3.9/bin/yt-dlp --cookies-from-browser chrome --write-auto-sub --skip-download --sub-format vtt -o "/tmp/yt_transcript" "URL" 2>/dev/null
+```
+
+If Chrome cookies fail, fall back to Safari:
+
+```bash
+/Users/bruce/Library/Python/3.9/bin/yt-dlp --cookies-from-browser safari --write-auto-sub --skip-download --sub-format vtt -o "/tmp/yt_transcript" "URL" 2>/dev/null
+```
+
+Then clean the transcript (use Python for dedup — macOS system `awk` does not support `!seen[$0]++`):
+
+```bash
 sed -e '/^WEBVTT/d' -e '/^Kind:/d' -e '/^Language:/d' \
     -e '/^[0-9][0-9]:[0-9][0-9]/d' -e '/^$/d' \
     -e 's/<[^>]*>//g' /tmp/yt_transcript.*.vtt \
-  | awk '!seen[$0]++' > /tmp/yt_transcript.txt
+  | python3 -c "
+import sys
+seen = set()
+for line in sys.stdin:
+    line = line.rstrip()
+    if line not in seen:
+        seen.add(line)
+        print(line)
+" > /tmp/yt_transcript.txt
 ```
 
-The `sed` pass strips VTT headers, timestamp lines, blank lines, and inline HTML tags. The `awk` pass removes duplicate lines produced by rolling auto-captions.
+The `sed` pass strips VTT headers, timestamp lines, blank lines, and inline HTML tags. The Python pass removes duplicate lines produced by rolling auto-captions.
 
 **Step 3 — Clean up temp files (after note is saved):**
 ```bash
